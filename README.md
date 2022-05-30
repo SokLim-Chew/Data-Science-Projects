@@ -11,3 +11,8 @@
 - Launch an AWS EC2 instance using AWS Elastic Beanstalk
 - Deploy ML model into AWS virtual servers
 - Perform additional AWS Elastic Beanstalk actions: Application versioning, Server logs, Server performance monitoring & Terminate the server
+
+**3. Medical Insurance Premium Prediction with Machine Learning**
+- Prediction of health insurance cost by individuals based on features such as age, gender, BMI (Body Mass Index), number of children, smoking habit and geo-location (residential area in US: northeast, southeast, southwest, northwest)
+- Target (output): individual medical cost billed by health insurance
+- Perform EDA (Exploratory Data Analysis), Feature Engineering, Data Visualization, Training and Evaluation of various models (Linear regression, Neural Network)
