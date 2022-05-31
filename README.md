@@ -16,3 +16,10 @@
 - Prediction of health insurance cost by individuals based on features such as age, gender, BMI (Body Mass Index), number of children, smoking habit and geo-location (residential area in US: northeast, southeast, southwest, northwest)
 - Target (output): individual medical cost billed by health insurance
 - Perform EDA (Exploratory Data Analysis), Feature Engineering, Data Visualization, Training and Evaluation of various models (Linear regression, Neural Network)
+
+**4. Clustering Geolocation Data Intelligently in Python**
+- We have taxi rank locations, and want to define key clusters of these taxis where we can build service stations for all taxis operating in that region
+- Perform exploratory data analysis and visualize geographical data
+- Evaluate strength of a clustering algorithm and perform K-Means clustering
+- Density-Based Spatial Clustering of Applications with Noise - DBSCAN, HDBSCAN
+- Address outliers
